@@ -1,0 +1,33 @@
+header .row h1{text-align: center; color: #317090; }
+            h2{text-align: center; color: #317090; font-size: 19px;}
+
+.wrap{background-color:#eee; }
+
+header.container{
+	width:100%;
+	/*margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;*/
+	margin-bottom: 10px;
+	background-color:#d9ddf7; 
+}
+
+.row h1{color:black;}
+
+/*section .row{margin-left: 190px;}*/
+
+.nis{height: 360px; margin-top: 10px;}
+.nis img{height:100px; width:100px; margin-top: 40px; margin-bottom: 30px;}
+
+.style:hover{background-color: #3392b7;}
+.style:hover h2{color: white;}
+.style:hover h3{color: white;}
+.style{background-color: #d9ddf7; height: 350px; padding: 5px; color: #317090;}
+.style h2{font-size: 23px;}
+.style h3{font-size: 18px;}
+
+footer .row p{font-size: 20px; margin-top: 10px; color: #317090;}
+.my-group{
+	max-width: 800px;
+    margin: 0 auto;
+}
